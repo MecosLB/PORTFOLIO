@@ -959,35 +959,35 @@ h2 > span {
 }
 
 #work .card.let {
-  background-image: url(/assets/img/work/let-web.webp);
+  background-image: url(../img/work/let-web.webp);
 }
 
 #work .card.once {
-  background-image: url(/assets/img/work/once-web.webp);
+  background-image: url(../img/work/once-web.webp);
 }
 
 #work .card.cokin {
-  background-image: url(/assets/img/work/cokin-web.webp);
+  background-image: url(../img/work/cokin-web.webp);
 }
 
 #work .card.intrategia {
-  background-image: url(/assets/img/work/intrategia-web.webp);
+  background-image: url(../img/work/intrategia-web.webp);
 }
 
 #work .card.innova {
-  background-image: url(/assets/img/work/innova-web.webp);
+  background-image: url(../img/work/innova-web.webp);
 }
 
 #work .card.townex {
-  background-image: url(/assets/img/work/townex-web.webp);
+  background-image: url(../img/work/townex-web.webp);
 }
 
 #work .card.toreo {
-  background-image: url(/assets/img/work/toreo-web.webp);
+  background-image: url(../img/work/toreo-web.webp);
 }
 
 #work .card.onix {
-  background-image: url(/assets/img/work/onix-web.webp);
+  background-image: url(../img/work/onix-web.webp);
 }
 
 @keyframes scrollWeb {
