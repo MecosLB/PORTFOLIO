@@ -958,32 +958,36 @@ h2 > span {
   flex-wrap: wrap;
 }
 
+#work .card.let {
+  background-image: url(/assets/img/work/let-web.webp);
+}
+
 #work .card.once {
-  background-image: url(../img/work/once-web.webp);
+  background-image: url(/assets/img/work/once-web.webp);
 }
 
 #work .card.cokin {
-  background-image: url(../img/work/cokin-web.webp);
+  background-image: url(/assets/img/work/cokin-web.webp);
 }
 
 #work .card.intrategia {
-  background-image: url(../img/work/intrategia-web.webp);
+  background-image: url(/assets/img/work/intrategia-web.webp);
 }
 
 #work .card.innova {
-  background-image: url(../img/work/innova-web.webp);
+  background-image: url(/assets/img/work/innova-web.webp);
 }
 
 #work .card.townex {
-  background-image: url(../img/work/townex-web.webp);
+  background-image: url(/assets/img/work/townex-web.webp);
 }
 
 #work .card.toreo {
-  background-image: url(../img/work/toreo-web.webp);
+  background-image: url(/assets/img/work/toreo-web.webp);
 }
 
 #work .card.onix {
-  background-image: url(../img/work/onix-web.webp);
+  background-image: url(/assets/img/work/onix-web.webp);
 }
 
 @keyframes scrollWeb {
@@ -997,22 +1001,18 @@ h2 > span {
 }
 
 @media (min-width: 768px){
-  .md\:flex{
-    display: flex;
-  }
-
   .md\:list-item{
     display: list-item;
-  }
-
-  .md\:text-3xl{
-    font-size: 1.875rem;
-    line-height: 2.25rem;
   }
 
   .md\:text-2xl{
     font-size: 1.5rem;
     line-height: 2rem;
+  }
+
+  .md\:text-3xl{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
   }
 }
 
